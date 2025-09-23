@@ -4,7 +4,6 @@ simples), exibindo no final.
 *******************************************************************************/
 
 import java.util.Scanner;
-import java.util.Locale;
 
 public class Exercicio3 {
     public static void main(String[] args) {
