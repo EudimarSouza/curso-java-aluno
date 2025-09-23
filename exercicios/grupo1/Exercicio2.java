@@ -1,4 +1,7 @@
-package exercicios.grupo1;
+/******************************************************************************
+Perguntar o nome de quem está usando o programa e sua idade.  Faça duas perguntas.
+Exercicio nao alerado
+*******************************************************************************/
 
 import java.util.Scanner;
 
