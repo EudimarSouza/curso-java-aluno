@@ -24,25 +24,24 @@ public class Main
 	    // Variaveis
 	    String nomeCompleto, dataNasc, cidade, paisOrigem, paisResidencia, escolaridade;
 	    LocalDate dataCadastro = LocalDate.now();    
-	    
-	    
+	    	    
 	    // Inicio do Formulario
 		System.out.println("----------------------");	    
 		System.out.println("Formulário de Cadastro");
 		System.out.println("----------------------");
 		
 		System.out.print("Nome Completo: ");
-        nomeCompleto = scanner.next();
+        nomeCompleto = scanner.nextLine();        
         System.out.print("Data de Nascimento: : ");
-        dataNasc = scanner.next();
+        dataNasc = scanner.nextLine();        
         System.out.print("Cidade: ");
-        cidade = scanner.next();
+        cidade = scanner.nextLine();        
         System.out.print("Pais de Nascimento: ");
-        paisOrigem = scanner.next();
+        paisOrigem = scanner.nextLine();        
         System.out.print("País de Residencia: ");
-        paisResidencia = scanner.next();
+        paisResidencia = scanner.nextLine();        
         System.out.print("Escolaridade: (Ensino Básico/Ensino Fundamental/Ensino Superior): ");
-        escolaridade = scanner.next();
+        escolaridade = scanner.nextLine();
         
 	    // Imprimir do Formulario
 		System.out.println("|-----------------------|");	    
