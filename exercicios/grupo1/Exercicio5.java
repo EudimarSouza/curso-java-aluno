@@ -1,4 +1,4 @@
 /******************************************************************************
-Calcule o quadrado de um número.  
-Pergunte o número, calcule e exiba no final o resultado. 
+Calcule a área de um quadrado.  
+Como calcular: Area = lado * lado 
 *******************************************************************************/
