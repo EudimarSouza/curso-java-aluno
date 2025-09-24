@@ -16,7 +16,7 @@ Pergunte e obtenha os seguintes dados e depois exiba todos na tela:
 import java.util.Scanner;
 import java.time.LocalDate;
 
-public class Main
+public class Exercicio8
 {
 	public static void main(String[] args) {
 	    Scanner scanner = new Scanner(System.in);
