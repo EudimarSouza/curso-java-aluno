@@ -7,7 +7,7 @@ Pergunte e obtenha os seguintes dados e depois exiba todos na tela:
  - Nome Completo
  - Data de Nascimento
  - Cidade/País de Origem(Nascimento)
- - Endereço completo de onde mora 
+ - Endereço completo de onde mora a
  - País onde reside 
  - Data do Cadastro
  - Escolaridade: (Ensino Básico/Ensino Fundamental/Ensino Superior)
