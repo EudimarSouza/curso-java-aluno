@@ -12,6 +12,7 @@ public class Exercicio1_g2 {
     //Variaveis
 
     int numero;
+    
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Imforme número para saber se ele é par ou ímpar: ");
