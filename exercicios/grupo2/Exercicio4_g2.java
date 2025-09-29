@@ -7,5 +7,7 @@ package exercicios.grupo2;
 import java.util.Scanner;
 
 public class Exercicio4_g2 {
+    
+    Scanner scanner = new Scanner(System.in);
 
 }

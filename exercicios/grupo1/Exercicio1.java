@@ -1,6 +1,6 @@
 // Escrever na tela Ola Mundo 
 
-
+package exercicios;
 
 public class Exercicio1 {
     

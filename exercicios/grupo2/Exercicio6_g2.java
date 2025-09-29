@@ -10,7 +10,7 @@ package exercicios.grupo2;
 import java.util.Scanner;
 
 public class Exercicio6_g2 {
-
+    
     public static void main (String[] args){
 
         //variaveis
