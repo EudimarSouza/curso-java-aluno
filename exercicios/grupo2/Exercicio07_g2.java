@@ -37,6 +37,8 @@ public class Exercicio07_g2 {
             case 7:
                 System.err.printf("o numero %d é Sábado", numeberDay);
                 break;
+            default:
+                System.err.printf("o numero %d é invalido", numeberDay);    
 
         }
         
