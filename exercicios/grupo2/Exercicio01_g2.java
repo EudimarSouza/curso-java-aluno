@@ -7,7 +7,7 @@ Pergunte um número. Diga se este numero é par ou ímpar, escrevendo na tela.
 package exercicios.grupo2;
 import java.util.Scanner;
 
-public class Exercicio1_g2 {    
+public class Exercicio01_g2 {    
     
     //Variaveis
 

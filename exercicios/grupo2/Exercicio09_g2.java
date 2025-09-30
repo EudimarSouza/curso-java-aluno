@@ -4,6 +4,6 @@ Atenção, utilize a estrutura CASE.  */
 
 package exercicios.grupo2;
 
-public class Exercicio9_g2 {
+public class Exercicio09_g2 {
 
 }

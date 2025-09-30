@@ -4,7 +4,7 @@ package exercicios.grupo2;
 
 import java.util.Scanner;
 
-public class Exercicio5_g2 {
+public class Exercicio05_g2 {
 
     int numero;
     public static void main (String[] args){
