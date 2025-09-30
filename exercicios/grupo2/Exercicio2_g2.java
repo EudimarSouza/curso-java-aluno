@@ -27,6 +27,7 @@ public class Exercicio2_g2{
         }
         else{            
             System.out.printf("O numero %d não é primo!", numero);
-        }        
+        }   
+        scanner.close();     
     }
 }
