@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Exercicio02_g3 {
     public static void main(String[] args){
 
-        int numero, soma = 0;
+        // int numero, soma = 0;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Informe o numero: ");   
 
