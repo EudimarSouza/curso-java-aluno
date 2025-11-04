@@ -8,16 +8,23 @@ package exercicios.grupo3;
 public class Exercicio03_g3 {
     public static void main(String[] args) {
         int quantidadeItenSoma = 100;
-        int somaNumerosPares = 0; 
-        for(int = contador = 0;  contador <= quantidadeItenSoma; contador ++ ){
-            // eh par
-            if(contador % 2 == 0)
-        }
-
-        System.out.printf("A soma dos numeros inte", args);
-
-
         
-    }
+        for(int contador = 0;  contador <= quantidadeItenSoma; contador ++ ){
+            boolean numImpar = false;
+            boolean numDivivelPorCinco = false;
+            if(contador % 2 != 0){
+                numImpar = true;
+            }
+            if(contador % 5 !=0){
+                numDivivelPorCinco = true;
+            }              
+            
+            if (numImpar && numDivivelPorCinco) {
+            System.out.println("Este numero " + contador + " é impar e nao divisivel por 5");
+            
+            }        
+        
+        }
     
+    }
 }
