@@ -9,17 +9,16 @@ import java.util.Scanner;
 public class Exercicio02_g3 {
     public static void main(String[] args){
 
-        int numero;
-
+        int numero, soma = 0;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Informe o numero: ");   
 
-        numero = scanner.nextInt();
-        
-        System.out.printf("Informe o numero %d: ", numero);  
-
+        for (int i = 1; i < 100; i++) {
+            System.out.println("Contagem: " + i);
+        }
         scanner.close();
     }
-
-
 }
+
+
+
