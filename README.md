@@ -1,2 +1,6 @@
 # curso-java-a
-Respostas dos exercicios de logica na linguagem Java
+Mentoria de Programação para iniciantes
+Mentor: Rodrigo Ficher
+GitHub: [Programação Mentoria](https://github.com/programacaomentoria)
+
+Exercicios Grupo 3 - Loops
