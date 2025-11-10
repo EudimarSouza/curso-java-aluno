@@ -4,7 +4,7 @@
 
 package exercicios.grupo3;
 
-public class Exercicios10_g3 {
+public class Exercicio10_g3 {
     public static void main(String[] args){
 
         int multiplicador  = 1, multiplicando  = 0;
