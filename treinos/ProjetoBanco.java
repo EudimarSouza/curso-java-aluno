@@ -16,7 +16,7 @@ public class ProjetoBanco {
             System.out.print("| Opção 2 - Login             |\n");
             System.out.print("| Opção 3 - Sair              |\n");
             System.out.print("|-----------------------------|\n");
-            System.out.print("Digite uma opção: ");            
+            System.out.print("Digite uma opção: ");
     
             opcao = scanner.nextInt();
             scanner.nextLine();
@@ -32,26 +32,23 @@ public class ProjetoBanco {
                     nomeCompleto = scanner.nextLine();
                     System.out.print("CPF: ");
                     cpf = scanner.nextLine();
-                    System.out.printf("Cliente Cadastrado \nNome: %s | CPF: %s \n\n", nomeCompleto, cpf);             
-                    break;
+                    System.out.printf("Cliente Cadastrado \nNome: %s | CPF: %s \n\n", nomeCompleto, cpf);
+                break;
 
                 case 2:
-                    System.out.println("Login Cliente");                    
-                    break;
+                    System.out.println("Login Cliente");
+                    System.out.println("Informe CPF: ");
+                    cpf = scanner.nextLine();
+                break;
             
                 default:
                     System.out.println("Ivalida");
-                    break;
+                break;
             }            
 
         }
 
-        scanner.close();
-    
-        
+        scanner.close();        
     }
-
-
+    
 }
-
-
